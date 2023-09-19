@@ -1,11 +1,14 @@
 /*  your css code here. If applicable */
-#first{
+.first{
 	width:200px;
 	
 }
-#second{
+.second{
 	width:600px;
 }
-#third{
+.third{
 	width:200px;
+}
+div {
+	background-color:violet
 }
